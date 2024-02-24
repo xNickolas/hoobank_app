@@ -4,6 +4,8 @@ HooBank is a next-generation payment method that aims to revolutionize the way p
 
 With HooBank, you can easily control your billing and invoicing, allowing you to streamline your financial management processes and focus on growing your business.
 
+![HooBank-desktop](https://github.com/xNickolas/hoobank_app/assets/59981129/7f04b3be-ad62-4e20-9272-bf80e7d8bd81)
+
 ## Features
 
 - Credit card recommendation based on personalized analysis
